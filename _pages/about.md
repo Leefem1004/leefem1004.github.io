@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is my personal website! waiting for the update!-leemfem1004"
+title: "Welcome to my Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-# Chenyang Li
 
 ---
 
