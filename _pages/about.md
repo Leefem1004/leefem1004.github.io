@@ -10,10 +10,6 @@ redirect_from:
 
 # Chenyang Li
 
-**Address:** 500 Dongchuan Rd., Shanghai 200241, China  
-**Tel:** +86 18857095710 | **Email:** leefem1004@gmail.com  
-**Google Scholar Profile:** [https://scholar.google.com/citations?hl=en&user=EdKat8YAAAAJ](https://scholar.google.com/citations?hl=en&user=EdKat8YAAAAJ)
-
 ---
 
 ## Education
