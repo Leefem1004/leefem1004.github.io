@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is my personal website! waiting for the update!-leemfem1004"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is my personal website! waiting for the update!-leemfem1004
+
+
