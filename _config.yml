@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./photo-myself.jpg"
+  avatar           : "photo-myself.jpg"
   name             : "Chenyang Li"
   pronouns         : # example: "she/her"  
   bio              : "Finite element Method"
@@ -40,7 +40,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
   #scopus           : # URL
-  BiliBili         :"https://space.bilibili.com/85644653?spm_id_from=333.1007.0.0"
+  #BiliBili         :"https://space.bilibili.com/85644653?spm_id_from=333.1007.0.0"
   #Wexin-Official-Account: "不喝水就犯困"
 
   # Repositories and software development
@@ -76,7 +76,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  WeXin-Official-Account:不喝水就犯困
+  #WeXin-Official-Account:不喝水就犯困
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
