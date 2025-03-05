@@ -36,10 +36,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=EdKat8YAAAAJ&hl=zh-CN"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #researchgate     : # URL
+  #scopus           : # URL
+  BiliBili         :"https://space.bilibili.com/85644653?spm_id_from=333.1007.0.0"
+  Wexin-Official-Account: "不喝水就犯困"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
