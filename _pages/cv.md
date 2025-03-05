@@ -104,7 +104,7 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
    Wenzhou University, Wenzhou  
    Email: liyuan@wzu.edu.cn
    
-
+<!--
 
 Education
 ======
@@ -159,5 +159,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
 
 
