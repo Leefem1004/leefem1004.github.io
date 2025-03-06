@@ -38,7 +38,7 @@ redirect_from:
 ## Personal Information
 
 - **Date of Birth:** October 4, 1999  
-- **Nationality:** Chinese  
+- **Nationality:** China
 
 ---
 
@@ -55,7 +55,7 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 
 ## Technical Skills
 
-- **Programming:** FreeFem++, TecPlot, Paraview, LaTeX, Fenics (beginner)  
+- **Programming:** FreeFem++, TecPlot, Paraview, LaTeX, Fenics 
 - **Writing:** Research manuscripts, funding proposals  
 
 ---
