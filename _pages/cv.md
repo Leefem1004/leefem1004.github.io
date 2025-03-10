@@ -19,14 +19,14 @@ redirect_from:
   Ph.D. in Computational Mathematics  
   *School of Mathematical Sciences, East China Normal University, Shanghai*  
   - Concentration: Numerical analysis and simulation of incompressible flow coupled with multi-physics fields  
-  - Supervisor: Haibiao Zheng, Associate Professor  
+  <!-- - Supervisor: Haibiao Zheng, Associate Professor     -->  
 
 - **Sept. 2020–Jul. 2023**  
   M.S. in Computational Mathematics  
   *College of Mathematics and Physics, Wenzhou University, Wenzhou*  
   - Concentration: Finite element discretizations for incompressible flow with variable density  
   - Dissertation: Research on the first-order Euler finite element algorithm for two-dimensional variable density MHD system  
-  - Supervisor: Yuan Li, Associate Professor  
+ <!-- - Supervisor: Yuan Li, Associate Professor  -->
 
 - **Sept. 2016–Jul. 2020**  
   B.S. in Mathematics and Applied Mathematics (Normal Major)  
