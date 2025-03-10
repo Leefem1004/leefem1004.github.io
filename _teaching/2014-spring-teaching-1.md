@@ -1,6 +1,6 @@
 ---
 title: "高等数学B习题课"
-collection: teaching
+collection: 教学
 type: "本科生课程"
 permalink: /teaching/2014-spring-teaching-1
 venue: "East China Normal University"
