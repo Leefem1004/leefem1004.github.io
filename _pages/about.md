@@ -16,7 +16,8 @@ redirect_from:
 - **Sept. 2023–Present**  
   Ph.D. in Computational Mathematics  
   *School of Mathematical Sciences, East China Normal University, Shanghai*  
-  - Concentration: Numerical analysis and simulation of incompressible flow coupled with multi-physics fields  
+  Concentration: Numerical analysis and simulation of incompressible flow coupled with multi-physics fields
+  
 ---
 
 ## Research Interests
