@@ -17,28 +17,6 @@ redirect_from:
   Ph.D. in Computational Mathematics  
   *School of Mathematical Sciences, East China Normal University, Shanghai*  
   - Concentration: Numerical analysis and simulation of incompressible flow coupled with multi-physics fields  
-  <!-- - Supervisor: Haibiao Zheng, Associate Professor     -->  
-<!--
-- **Sept. 2020–Jul. 2023**  
-  M.S. in Computational Mathematics  
-  *College of Mathematics and Physics, Wenzhou University, Wenzhou*  
-  - Concentration: Finite element discretizations for incompressible flow with variable density  
-  - Dissertation: Research on the first-order Euler finite element algorithm for two-dimensional variable density MHD system  
-- Supervisor: Yuan Li, Associate Professor 
-
-- **Sept. 2016–Jul. 2020**  
-  B.S. in Mathematics and Applied Mathematics (Normal Major)  
-  *School of Information Engineering, Zhejiang Ocean University, Zhoushan*  
-  - Dissertation: The integration of mathematical modeling concepts into secondary school mathematics
-  -->  
-  
-<!---
-
-## Personal Information
-
-- **Date of Birth:** October 4, 1999  
-- **Nationality:** China
-   --> 
 ---
 
 ## Research Interests
@@ -83,21 +61,5 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 
 - Graduate Academic Scholarship, East China Normal University, 2023–2024  
 - Outstanding Graduate of Zhejiang Province, 2023  
-<!-- - Outstanding Graduate of Zhejiang Ocean University, 2020  
-
-
-<!-- 
-## References
----
-1. **Haibiao Zheng**  
-   Associate Professor, School of Mathematical Sciences  
-   East China Normal University, Shanghai  
-   Email: hbzheng@math.ecnu.edu.cn  
-
-2. **Yuan Li**  
-   Associate Professor, College of Mathematics and Physics  
-   Wenzhou University, Wenzhou  
-   Email: liyuan@wzu.edu.cn
-   -->  
 
 
