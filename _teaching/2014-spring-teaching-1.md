@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "高等数学B习题课"
 collection: teaching
-type: "Undergraduate course"
+type: "本科生课程"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "East China Normal University"
+date: 2025-02-24
+location: "ShangHai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+这是高等数学B习题课的题册，题目答案会在这个课程上完之后也会发布在这里！
 
-Heading 1
-======
+高等数学B习题课-题库
 
-Heading 2
-======
-
-Heading 3
-======
+高等数学B习题课-答案
