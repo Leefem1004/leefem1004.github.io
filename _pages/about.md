@@ -24,16 +24,15 @@ redirect_from:
   *College of Mathematics and Physics, Wenzhou University, Wenzhou*  
   - Concentration: Finite element discretizations for incompressible flow with variable density  
   - Dissertation: Research on the first-order Euler finite element algorithm for two-dimensional variable density MHD system  
- <!-- - Supervisor: Yuan Li, Associate Professor  -->
-<!--
+- Supervisor: Yuan Li, Associate Professor 
+
 - **Sept. 2016–Jul. 2020**  
   B.S. in Mathematics and Applied Mathematics (Normal Major)  
   *School of Information Engineering, Zhejiang Ocean University, Zhoushan*  
   - Dissertation: The integration of mathematical modeling concepts into secondary school mathematics
   -->  
-    
-<!-- 
----
+  
+<!---
 
 ## Personal Information
 
