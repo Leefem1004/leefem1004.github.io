@@ -33,13 +33,14 @@ redirect_from:
   *School of Information Engineering, Zhejiang Ocean University, Zhoushan*  
   - Dissertation: The integration of mathematical modeling concepts into secondary school mathematics  
 
+<!-- 
 ---
 
 ## Personal Information
 
 - **Date of Birth:** October 4, 1999  
 - **Nationality:** China
-
+   --> 
 ---
 
 ## Research Interests
@@ -55,7 +56,7 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 
 ## Technical Skills
 
-- **Programming:** FreeFem++, TecPlot, Paraview, LaTeX, Fenics 
+- **Programming:** FreeFem++, TecPlot, Paraview, LaTeX, Fenics, Python, C++
 - **Writing:** Research manuscripts, funding proposals  
 
 ---
@@ -86,10 +87,10 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 - Outstanding Graduate of Zhejiang Province, 2023  
 - Outstanding Graduate of Zhejiang Ocean University, 2020  
 
----
 
+<!-- 
 ## References
-
+---
 1. **Haibiao Zheng**  
    Associate Professor, School of Mathematical Sciences  
    East China Normal University, Shanghai  
@@ -99,6 +100,6 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
    Associate Professor, College of Mathematics and Physics  
    Wenzhou University, Wenzhou  
    Email: liyuan@wzu.edu.cn
-   
+   -->  
 
 
