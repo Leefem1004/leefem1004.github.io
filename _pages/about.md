@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Homepage!"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-# Chenyang Li
 
 ---
 
