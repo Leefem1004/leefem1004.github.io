@@ -53,14 +53,10 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 ## Research Experience
 
 - **Principal Investigator (P.I.)**, *Algorithm study of the incompressible magnetohydrodynamic equations with variable density in 2D*. Xinmiao Talents Program of Zhejiang Province, 2022–2024.  
-- **Principal Investigator (P.I.)**, *Convergence analysis of finite element discrete scheme for the incompressible magnetohydrodynamics system with variable density*. Master's Innovation Foundation of Wenzhou University, 2022–2023.  
-- **Principal Investigator (P.I.)**, *Error analysis of first-order Euler linearized finite element scheme for the 2D magnetohydrodynamics system with variable density*. Innovation Foundation of Wangxiaoan in Wenzhou University, 2022–2023.  
-
 ---
 
 ## Honors and Awards
 
 - Graduate Academic Scholarship, East China Normal University, 2023–2024  
 - Outstanding Graduate of Zhejiang Province, 2023  
-
 
