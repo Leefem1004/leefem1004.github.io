@@ -59,5 +59,5 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 - Graduate Academic Scholarship, East China Normal University, 2023–2024  
 - Outstanding Graduate of Zhejiang Province, 2023
 
-/images/1.png
+<img src="{{ site.url }}/images/1.png" alt="My Image" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
