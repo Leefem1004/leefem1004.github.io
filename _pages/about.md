@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 ---
 
 ## Education
@@ -52,7 +50,8 @@ Computational fluid dynamics, numerical solution of PDEs, finite element methods
 
 ## Research Experience
 
-1. **Principal Investigator (P.I.)**, *Algorithm study of the incompressible magnetohydrodynamic equations with variable density in 2D*. Xinmiao Talents Program of Zhejiang Province, 2022–2024.  
+1. **Principal Investigator (P.I.)**, *Algorithm study of the incompressible magnetohydrodynamic equations with variable density in 2D*. Xinmiao Talents Program of Zhejiang Province, 2022–2024.
+   
 ---
 
 ## Honors and Awards
