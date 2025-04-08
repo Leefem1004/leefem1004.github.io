@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "[Curriculum Vitae](../files/CV_Chenyang LI.pdf)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-[CV_Chenyang Li](../files/CV_Chenyang LI.pdf)
+
 ## Education
 
 - **Sept. 2023–Present**  
