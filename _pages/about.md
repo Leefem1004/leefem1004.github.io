@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-[高数B习题课-纯享版.pdf](../files/高数B习题课-纯享版.pdf)
+[高数B习题课-纯享版.pdf](../files/CV_Chenyang LI.pdf)
 ## Education
 
 - **Sept. 2023–Present**  
