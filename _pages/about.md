@@ -38,31 +38,31 @@ density, Ericksen-Leslie system with variable density.
 ---
 
 ## Publications
-[1] Chenyang Li, Yuan Li. Optimal L2 error analysis of first-order Euler linearized finite element scheme for the 2D
+1. Chenyang Li, Yuan Li. Optimal L2 error analysis of first-order Euler linearized finite element scheme for the 2D
 magnetohydrodynamics system with variable density. Computers and Mathematics with Applications 128
-(2022): 96-107. ç
-[2] Yuan Li, Chenyang Li, Xuewei Cui. Spatial error analysis of a new Euler finite element scheme for the
+(2022): 96-107.
+2. Yuan Li, Chenyang Li, Xuewei Cui. Spatial error analysis of a new Euler finite element scheme for the
 incompressible flows with variable density. Submitted.
-[3] Chenyang Li, Haibiao Zheng. Temporal error analysis of a BDF2 time-discrete scheme for the incompressible
+3. Chenyang Li, Haibiao Zheng. Temporal error analysis of a BDF2 time-discrete scheme for the incompressible
 Navier-Stokes equations with variable density. Journal of Computational and Applied Mathematics. Submitted.
-[4] Atrout Sabah, Md. Abdullah Al Mahbub, Chenyang Li, and Haibiao Zheng. Eicient and Long-Time Accurate
+4. Atrout Sabah, Md. Abdullah Al Mahbub, Chenyang Li, and Haibiao Zheng. Eicient and Long-Time Accurate
 Second-Order Decoupled Method for the Blood Solute Dynamics Model. International Journal of Numerical
 Analysis and Modeling. Submitted.
-[5] Li Hang, Chenyang Li*. Error analysis of a Euler finite element scheme for Natural convection model with
+5. Li Hang, Chenyang Li*. Error analysis of a Euler finite element scheme for Natural convection model with
 variable density. https://doi.org/10.48550/arXiv.2504.04381, Communications in Nonlinear Science and
 Numerical Simulation. Submitted.
-[6] Chenyang Li*, Yuzu Lu, Haibiao Zheng. Error Estimate of a linearized Second-order Fully Discrete Finite
+6. Chenyang Li*, Yuzu Lu, Haibiao Zheng. Error Estimate of a linearized Second-order Fully Discrete Finite
 Element Method for the bioconvection flows with concentration dependent viscosity.
 https://doi.org/10.48550/arXiv.2504.04357, Journal of Computational Mathematics. Submitted. 
-[7] Chenyang Li. Fully discrete finite element approximation for the projection method to solve the
+7. Chenyang Li. Fully discrete finite element approximation for the projection method to solve the
 Chemotaxis-Fluid System. https://doi.org/10.48550/arXiv.2506.06792. 
-[8] Chenyang Li , Chunchi Liu, Yizhong Sun, Haibiao Zheng. Error estimate of parallel decoupled stabilized finite
+8. Chenyang Li , Chunchi Liu, Yizhong Sun, Haibiao Zheng. Error estimate of parallel decoupled stabilized finite
 element algorithm for the fully mixed Stokes-Darcy Problems. Under Preparation.
-[9] Chenyang Li, Yuzu Lu. Unconditional Convergence Of High-Order Extrapolations Of The Crank-Nicolson,
+9. Chenyang Li, Yuzu Lu. Unconditional Convergence Of High-Order Extrapolations Of The Crank-Nicolson,
 Finite Element Method For the bioconvection flows with concentration dependent viscosity. Under Preparation.
-[10] Chenyang Li, Xiaohe Yue, Haibiao Zheng. Analysis of mixed finite element method for Instationary Stokes–Biot
+10. Chenyang Li, Xiaohe Yue, Haibiao Zheng. Analysis of mixed finite element method for Instationary Stokes–Biot
 Coupled Problem. Under Preparation.
-[11] Chenyang Li, Haibiao Zheng. A Second Order Accurate Scalar Auxiliary Variable Numerical Method for the
+11. Chenyang Li, Haibiao Zheng. A Second Order Accurate Scalar Auxiliary Variable Numerical Method for the
 chemo-repulsion-Navier-Stokes system. Under Preparation.
 
 ---
